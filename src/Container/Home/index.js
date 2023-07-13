@@ -15,7 +15,7 @@ import {
   H1,
 } from "./styles";
 
-function App() {s
+function App() {
   const [users, setUsers] = useState([]);
   const inputName = useRef()
   const inputAge = useRef()

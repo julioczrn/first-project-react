@@ -6,9 +6,14 @@ import Avatar from '../../assets/Avatar.svg';
 import Seta from '../../assets/Seta.svg';
 import Trash from '../../assets/Trash.svg';
 
-
-import {Container,H1,Image,ContainerItens,Button,User,} from "./styles";
-
+import {
+  Container,
+  H1,
+  Image,
+  ContainerItens,
+  Button,
+  User
+} from "./styles";
 
 function Users() {
   const [users, setUsers] = useState([]);

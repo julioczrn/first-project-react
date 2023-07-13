@@ -80,11 +80,3 @@ export const Button = styled.button`
     }
 `;
 
-export const User = styled.Users`
-    
-`;
-
-
-
-
-
